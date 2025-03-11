@@ -31,6 +31,6 @@ Run Cypress tests:
  
 
 🛠️ Tech Stack
-- `Cypress for E2E testing
-- `Cucumber (Gherkin) for BDD
-- `JavaScript for scripting
+- Cypress for E2E testing
+- Cucumber (Gherkin) for BDD
+- JavaScript for scripting
