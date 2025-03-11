@@ -1,4 +1,4 @@
-Feature: Login to Magento
+ Feature: Login to Magento
 
   Background:
     Given Load magento website
