@@ -15,13 +15,18 @@ This repository contains automated test scripts using [Cypress](https://www.cypr
    git clone <your-repo-url>
 
    Install dependencies:
- ```bash
+
 npm install
 
 Run Cypress tests:
  ```bash
  mpm i
- npm test run 
+ ```
+```bash
+ npm test run
+ ```
+
+
 
  
 
