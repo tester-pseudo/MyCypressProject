@@ -1,0 +1,32 @@
+{
+  "name": "cypresscode",
+  "version": "1.0.0",
+  "description": "test",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "cypress-cucumber-preprocessor": {
+    "stepDefinitions": "cypress/e2e/stepDefinitions/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/abhishektest/cypressbddframework.git"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/abhishektest/cypressbddframework/issues"
+  },
+  "homepage": "https://gitlab.com/abhishektest/cypressbddframework#readme",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
+    "cypress": "^12.17.4",
+    "cypress-xpath": "^2.0.1",
+    "esbuild": "^0.25.0"
+  }
+}
