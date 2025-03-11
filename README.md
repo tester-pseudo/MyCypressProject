@@ -20,6 +20,23 @@ npm install
 Run Cypress tests:
  mpm i
  npm test run
+
+ Install dependencies:
+bash
+Copy
+Edit
+npm install
+Run Cypress tests:
+Headless mode:
+bash
+Copy
+Edit
+npx cypress run
+Open Cypress UI:
+bash
+Copy
+Edit
+npx cypress open
  
 
 🛠️ Tech Stack
