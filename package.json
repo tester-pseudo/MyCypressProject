@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/abhishektest/cypressbddframework.git"
+    "url": "git+ssh://git@gitlab.com/monikatest/cypressbddframework.git"
   },
   "keywords": [
     "cypress",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/abhishektest/cypressbddframework/issues"
+    "url": "https://gitlab.com/monikatest/cypressbddframework/issues"
   },
-  "homepage": "https://gitlab.com/abhishektest/cypressbddframework#readme",
+  "homepage": "https://gitlab.com/monikatest/cypressbddframework#readme",
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
